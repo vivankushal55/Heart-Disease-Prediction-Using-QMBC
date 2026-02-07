@@ -8,8 +8,6 @@
 ![Domain](https://img.shields.io/badge/Domain-Healthcare%20AI-red)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
 
-> An industry-style machine learning project implementing a **Novel Quine McCluskey Binary Classifier (QMBC)** — an ensemble-based predictive system designed for accurate and efficient heart disease detection.
-
 ---
 
 ## 📌 Overview
@@ -254,21 +252,4 @@ This project is developed for academic and research purposes only.
 
 ---
 
-## ⭐ If You Found This Useful
 
-Give this repository a ⭐ and consider contributing improvements or suggestions!
-
-```
-
----
-
-If you want next upgrade (seriously useful for placements & portfolios), I can make you:
-
-- 🔥 **Top-1% GitHub ML README (recruiter magnet style)**
-- 🎯 **Placement/Resume optimized project README**
-- 🧑‍💻 **Production ML repo structure with MLOps**
-- 📊 README with **architecture diagrams + performance charts**
-- 🚀 Ready **requirements.txt + environment.yml + setup files**
-
-Just tell me 👍.
-```
